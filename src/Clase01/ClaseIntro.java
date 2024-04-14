@@ -7,7 +7,7 @@ class Intro {
 
         System.out.println("Hola Dogorcito, no me cagues");
 
-        String nombre = "tercer canbio";
+        String nombre = "4to canbio";
 
         int edad = 26;
         double talla = 1.72;
