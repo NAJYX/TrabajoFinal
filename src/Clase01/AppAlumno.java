@@ -10,7 +10,7 @@ public class AppAlumno {
 
         Alumno alumno3 = new Alumno();
 
-        System.out.println("Codigo: " + alumno1.getCodigo() + ", nombres: " + alumno1.getNombre() + " , nota 1:  " + alumno1.getNota1() + " , nota 2: " + alumno1.getNota2());
+        System.out.println("Codigo01: " + alumno1.getCodigo() + ", nombres: " + alumno1.getNombre() + " , nota 1:  " + alumno1.getNota1() + " , nota 2: " + alumno1.getNota2());
 
         System.out.println("El promedio del alumno 1 es: " + alumno1.calcularPromedio());
         System.out.println("El promedio del alumno 2 es: " + alumno2.calcularPromedio());
