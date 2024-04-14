@@ -7,7 +7,7 @@ class Intro {
 
         System.out.println("Hola Dogorcito, no me cagues");
 
-        String nombre = "Dogorcito Holaaaxx";
+        String nombre = "Habla pe dogorcito";
 
         int edad = 26;
         double talla = 1.72;
