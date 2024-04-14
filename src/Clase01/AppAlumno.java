@@ -26,7 +26,6 @@ public class AppAlumno {
         String nombre;
         int nota1;
         int nota2;
-        codigo = sc
 
         System.out.println("Codigo: " + alumno3.getCodigo() + ", nombres: " + alumno3.getNombre() + " , nota 1:  " + alumno3.getNota1() + " , nota 2: " + alumno3.getNota2());
         System.out.println("El promedio del alumno 3 es: " + alumno3.calcularPromedio());
