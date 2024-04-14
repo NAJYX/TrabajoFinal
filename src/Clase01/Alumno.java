@@ -1,6 +1,7 @@
 package Clase01;
 
 public class Alumno {
+    // comentario
     private int codigo;
     private String nombre;
     private int nota1;
